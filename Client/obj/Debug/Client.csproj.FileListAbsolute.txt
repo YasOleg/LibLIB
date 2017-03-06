@@ -1,0 +1,15 @@
+c:\documents\visual studio 2015\Projects\Library\Client\bin\Debug\Client.exe.config
+c:\documents\visual studio 2015\Projects\Library\Client\bin\Debug\Client.exe
+c:\documents\visual studio 2015\Projects\Library\Client\bin\Debug\Client.pdb
+c:\documents\visual studio 2015\Projects\Library\Client\obj\Debug\Client.Properties.Resources.resources
+c:\documents\visual studio 2015\Projects\Library\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\documents\visual studio 2015\Projects\Library\Client\obj\Debug\Client.exe
+c:\documents\visual studio 2015\Projects\Library\Client\obj\Debug\Client.pdb
+c:\documents\visual studio 2015\Projects\Library\Client\obj\Debug\Client.Client_Form.resources
+c:\documents\visual studio 2015\Projects\Library\Client\bin\Debug\EntityFramework.dll
+c:\documents\visual studio 2015\Projects\Library\Client\bin\Debug\EntityFramework.SqlServer.dll
+c:\documents\visual studio 2015\Projects\Library\Client\bin\Debug\EntityFramework.xml
+c:\documents\visual studio 2015\Projects\Library\Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documents\Visual Studio 2015\Projects\Library\Client\bin\Debug\DataBaseApplication.exe
+C:\Documents\Visual Studio 2015\Projects\Library\Client\bin\Debug\DataBaseApplication.pdb
+C:\Documents\Visual Studio 2015\Projects\Library\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
