@@ -1,0 +1,17 @@
+c:\documents\visual studio 2015\Projects\Library\Librarian\bin\Debug\Librarian.exe.config
+c:\documents\visual studio 2015\Projects\Library\Librarian\bin\Debug\Librarian.exe
+c:\documents\visual studio 2015\Projects\Library\Librarian\bin\Debug\Librarian.pdb
+c:\documents\visual studio 2015\Projects\Library\Librarian\obj\Debug\Librarian.csprojResolveAssemblyReference.cache
+c:\documents\visual studio 2015\Projects\Library\Librarian\obj\Debug\Librarian.Librarian_Form.resources
+c:\documents\visual studio 2015\Projects\Library\Librarian\obj\Debug\Librarian.Properties.Resources.resources
+c:\documents\visual studio 2015\Projects\Library\Librarian\obj\Debug\Librarian.csproj.GenerateResource.Cache
+c:\documents\visual studio 2015\Projects\Library\Librarian\obj\Debug\Librarian.exe
+c:\documents\visual studio 2015\Projects\Library\Librarian\obj\Debug\Librarian.pdb
+c:\documents\visual studio 2015\Projects\Library\Librarian\bin\Debug\EntityFramework.dll
+c:\documents\visual studio 2015\Projects\Library\Librarian\bin\Debug\EntityFramework.SqlServer.dll
+c:\documents\visual studio 2015\Projects\Library\Librarian\bin\Debug\EntityFramework.xml
+c:\documents\visual studio 2015\Projects\Library\Librarian\bin\Debug\EntityFramework.SqlServer.xml
+C:\Documents\Visual Studio 2015\Projects\Library\Librarian\bin\Debug\DataBaseApplication.exe
+C:\Documents\Visual Studio 2015\Projects\Library\Librarian\bin\Debug\DataBaseApplication.pdb
+C:\Documents\Visual Studio 2015\Projects\Library\Librarian\obj\Debug\Librarian.AddBookForm.resources
+c:\documents\visual studio 2015\Projects\Library\Librarian\obj\Debug\Librarian.RemoveForm.resources
