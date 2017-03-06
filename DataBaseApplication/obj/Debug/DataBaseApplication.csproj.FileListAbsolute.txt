@@ -1,0 +1,9 @@
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\bin\Debug\DataBaseApplication.exe.config
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\bin\Debug\DataBaseApplication.exe
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\bin\Debug\DataBaseApplication.pdb
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\bin\Debug\EntityFramework.dll
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\bin\Debug\EntityFramework.SqlServer.dll
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\bin\Debug\EntityFramework.xml
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\bin\Debug\EntityFramework.SqlServer.xml
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\obj\Debug\DataBaseApplication.exe
+c:\documents\visual studio 2015\Projects\Library\DataBaseApplication\obj\Debug\DataBaseApplication.pdb
